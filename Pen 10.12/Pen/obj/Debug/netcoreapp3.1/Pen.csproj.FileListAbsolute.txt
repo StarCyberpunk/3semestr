@@ -1,0 +1,119 @@
+C:\Users\БЛэкс\source\repos\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.exe
+C:\Users\БЛэкс\source\repos\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.deps.json
+C:\Users\БЛэкс\source\repos\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.json
+C:\Users\БЛэкс\source\repos\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.dev.json
+C:\Users\БЛэкс\source\repos\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.dll
+C:\Users\БЛэкс\source\repos\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\БЛэкс\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.csprojAssemblyReference.cache
+C:\Users\БЛэкс\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfoInputs.cache
+C:\Users\БЛэкс\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfo.cs
+C:\Users\БЛэкс\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.csproj.CoreCompileInputs.cache
+C:\Users\БЛэкс\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.dll
+C:\Users\БЛэкс\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\БЛэкс\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.genruntimeconfig.cache
+C:\Users\Год\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.csprojAssemblyReference.cache
+C:\Users\Год\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfoInputs.cache
+C:\Users\Год\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfo.cs
+C:\Users\Год\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.csproj.CoreCompileInputs.cache
+C:\Users\Год\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.dll
+C:\Users\Год\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\Год\source\repos\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.exe
+C:\Users\Год\source\repos\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.deps.json
+C:\Users\Год\source\repos\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.json
+C:\Users\Год\source\repos\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.dev.json
+C:\Users\Год\source\repos\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.dll
+C:\Users\Год\source\repos\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\Год\source\repos\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.genruntimeconfig.cache
+C:\Users\Год\Desktop\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.exe
+C:\Users\Год\Desktop\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.deps.json
+C:\Users\Год\Desktop\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.json
+C:\Users\Год\Desktop\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.dev.json
+C:\Users\Год\Desktop\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.dll
+C:\Users\Год\Desktop\Pen\Pen\bin\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\Год\Desktop\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.csprojAssemblyReference.cache
+C:\Users\Год\Desktop\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfoInputs.cache
+C:\Users\Год\Desktop\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfo.cs
+C:\Users\Год\Desktop\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.csproj.CoreCompileInputs.cache
+C:\Users\Год\Desktop\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.dll
+C:\Users\Год\Desktop\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\Год\Desktop\Pen\Pen\obj\Debug\netcoreapp3.1\Pen.genruntimeconfig.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\obj\Debug\netcoreapp3.1\Pen.csprojAssemblyReference.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfoInputs.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfo.cs
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\obj\Debug\netcoreapp3.1\Pen.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\obj\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\bin\Debug\netcoreapp3.1\Pen.exe
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\bin\Debug\netcoreapp3.1\Pen.deps.json
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.json
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.dev.json
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\bin\Debug\netcoreapp3.1\Pen.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\bin\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\obj\Debug\netcoreapp3.1\Pen.genruntimeconfig.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\obj\Debug\netcoreapp3.1\Pen.csproj.CoreCompileInputs.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen_19.11\Pen\obj\Debug\netcoreapp3.1\Pen.csproj.CopyComplete
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\bin\Debug\netcoreapp3.1\Pen.exe
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\bin\Debug\netcoreapp3.1\Pen.deps.json
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.json
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.dev.json
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\bin\Debug\netcoreapp3.1\Pen.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\bin\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\obj\Debug\netcoreapp3.1\Pen.csprojAssemblyReference.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfoInputs.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfo.cs
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\obj\Debug\netcoreapp3.1\Pen.csproj.CoreCompileInputs.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\obj\Debug\netcoreapp3.1\Pen.csproj.CopyComplete
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\obj\Debug\netcoreapp3.1\Pen.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\obj\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\Год\Desktop\Классы\Pen\Pen 03.12\Pen\obj\Debug\netcoreapp3.1\Pen.genruntimeconfig.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\bin\Debug\netcoreapp3.1\Pen.exe
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\bin\Debug\netcoreapp3.1\Pen.deps.json
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.json
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.dev.json
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\bin\Debug\netcoreapp3.1\Pen.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\bin\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\obj\Debug\netcoreapp3.1\Pen.csprojAssemblyReference.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfoInputs.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfo.cs
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\obj\Debug\netcoreapp3.1\Pen.csproj.CoreCompileInputs.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\obj\Debug\netcoreapp3.1\Pen.csproj.CopyComplete
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\obj\Debug\netcoreapp3.1\Pen.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\obj\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\Год\Desktop\Классы\Pen\Pen 06.12\Pen\obj\Debug\netcoreapp3.1\Pen.genruntimeconfig.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\bin\Debug\netcoreapp3.1\Pen.exe
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\bin\Debug\netcoreapp3.1\Pen.deps.json
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.json
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\bin\Debug\netcoreapp3.1\Pen.runtimeconfig.dev.json
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\bin\Debug\netcoreapp3.1\Pen.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\bin\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\obj\Debug\netcoreapp3.1\Pen.csprojAssemblyReference.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfoInputs.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\obj\Debug\netcoreapp3.1\Pen.AssemblyInfo.cs
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\obj\Debug\netcoreapp3.1\Pen.csproj.CoreCompileInputs.cache
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\obj\Debug\netcoreapp3.1\Pen.csproj.CopyComplete
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\obj\Debug\netcoreapp3.1\Pen.dll
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\obj\Debug\netcoreapp3.1\Pen.pdb
+C:\Users\Год\Desktop\Классы\Pen\Pen 10.12\Pen\obj\Debug\netcoreapp3.1\Pen.genruntimeconfig.cache

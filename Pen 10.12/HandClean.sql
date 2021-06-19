@@ -1,0 +1,3 @@
+﻿DELETE FROM Operation
+WHERE IdOp < 1000.00;  
+GO  

@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations>
+ <Operation ID="1">
+  <Type>Покупка</Type>
+  <DateTime>
+   <Date>13.12.2020 14:33:09</Date>
+  </DateTime>
+  <Prodavec>
+   <People> Udny True Rank 9 </People>
+  </Prodavec>
+  <Pen>
+   <TypePen>PenCher</TypePen>
+   <Name>Ip</Name>
+   <Color>Pink</Color>
+   <Price>2010</Price>
+  </Pen>
+ </Operation>
+ <Operation ID="2">
+  <Type>Пополнение</Type>
+  <DateTime>
+   <Date>13.12.2020 14:33:09</Date>
+  </DateTime>
+  <Prodavec>
+   <People> Udny True Rank 9 </People>
+  </Prodavec>
+  <Pen>
+   <TypePen>PenCher</TypePen>
+   <Name>Ip</Name>
+   <Color>Pink</Color>
+   <Price>2010</Price>
+  </Pen>
+ </Operation>
+ <Operation ID="3">
+  <Type>Покупка</Type>
+  <DateTime>
+   <Date>13.12.2020 14:33:09</Date>
+  </DateTime>
+  <Prodavec>
+   <People> Jony True Rank 2 </People>
+  </Prodavec>
+  <Pen>
+   <TypePen>PenCher</TypePen>
+   <Name>Io</Name>
+   <Color>Pink</Color>
+   <Price>200</Price>
+  </Pen>
+ </Operation>
+ <Operation ID="4">
+  <Type>Пополнение</Type>
+  <DateTime>
+   <Date>13.12.2020 14:33:09</Date>
+  </DateTime>
+  <Prodavec>
+   <People> Jony True Rank 2 </People>
+  </Prodavec>
+  <Pen>
+   <TypePen>PenCher</TypePen>
+   <Name>Io</Name>
+   <Color>Pink</Color>
+   <Price>200</Price>
+  </Pen>
+ </Operation>
+ <Operation ID="5">
+  <Type>Покупка</Type>
+  <DateTime>
+   <Date>13.12.2020 14:33:09</Date>
+  </DateTime>
+  <Prodavec>
+   <People> Udny True Rank 9 </People>
+  </Prodavec>
+  <Pen>
+   <TypePen>PenCher</TypePen>
+   <Name>Ip</Name>
+   <Color>Pink</Color>
+   <Price>2010</Price>
+  </Pen>
+ </Operation>
+ <Operation ID="6">
+  <Type>Пополнение</Type>
+  <DateTime>
+   <Date>13.12.2020 14:33:09</Date>
+  </DateTime>
+  <Prodavec>
+   <People> Udny True Rank 9 </People>
+  </Prodavec>
+  <Pen>
+   <TypePen>PenCher</TypePen>
+   <Name>Ip</Name>
+   <Color>Pink</Color>
+   <Price>2010</Price>
+  </Pen>
+ </Operation>
+ <Operation ID="7">
+  <Type>Покупка</Type>
+  <DateTime>
+   <Date>13.12.2020 14:33:09</Date>
+  </DateTime>
+  <Prodavec>
+   <People> Jony True Rank 2 </People>
+  </Prodavec>
+  <Pen>
+   <TypePen>PenSh</TypePen>
+   <Name>BBB</Name>
+   <Color>Red</Color>
+   <Price>510</Price>
+  </Pen>
+ </Operation>
+ <Operation ID="8">
+  <Type>Пополнение</Type>
+  <DateTime>
+   <Date>13.12.2020 14:33:09</Date>
+  </DateTime>
+  <Prodavec>
+   <People> Jony True Rank 2 </People>
+  </Prodavec>
+  <Pen>
+   <TypePen>PenSh</TypePen>
+   <Name>BBB</Name>
+   <Color>Red</Color>
+   <Price>510</Price>
+  </Pen>
+ </Operation>
+ <Operation ID="9">
+  <Type>Покупка</Type>
+  <DateTime>
+   <Date>13.12.2020 14:33:09</Date>
+  </DateTime>
+  <Prodavec>
+   <People> Jony True Rank 2 </People>
+  </Prodavec>
+  <Pen>
+   <TypePen>PenCher</TypePen>
+   <Name>Io</Name>
+   <Color>Pink</Color>
+   <Price>200</Price>
+  </Pen>
+ </Operation>
+ <Operation ID="10">
+  <Type>Пополнение</Type>
+  <DateTime>
+   <Date>13.12.2020 14:33:09</Date>
+  </DateTime>
+  <Prodavec>
+   <People> Jony True Rank 2 </People>
+  </Prodavec>
+  <Pen>
+   <TypePen>PenCher</TypePen>
+   <Name>Io</Name>
+   <Color>Pink</Color>
+   <Price>200</Price>
+  </Pen>
+ </Operation>
+ <Operation ID="11">
+  <Type>Покупка</Type>
+  <DateTime>
+   <Date>13.12.2020 14:33:09</Date>
+  </DateTime>
+  <Prodavec>
+   <People> Jony True Rank 2 </People>
+  </Prodavec>
+  <Pen>
+   <TypePen>PenCher</TypePen>
+   <Name>Io</Name>
+   <Color>Pink</Color>
+   <Price>200</Price>
+  </Pen>
+ </Operation>
+ <Operation ID="12">
+  <Type>Пополнение</Type>
+  <DateTime>
+   <Date>13.12.2020 14:33:09</Date>
+  </DateTime>
+  <Prodavec>
+   <People> Jony True Rank 2 </People>
+  </Prodavec>
+  <Pen>
+   <TypePen>PenCher</TypePen>
+   <Name>Io</Name>
+   <Color>Pink</Color>
+   <Price>200</Price>
+  </Pen>
+ </Operation>
+</Operations>
